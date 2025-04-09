@@ -9,10 +9,10 @@ public class linkedlist{
         }
         Node(int value){
             this.value = value;
-            next = NULL;
+            next = null;
         }
     }
     linkedlist(){
-        head = NULL;
+        head = null;
     }
 }
